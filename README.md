@@ -205,34 +205,33 @@ A modern web experience focused on frontend development, visual design, and crea
 
 <h2 align="left">GitHub Statistics</h2>
 
-<p>
-  <img
-    align="left"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=heavenlyron&langs_count=4&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-
-<p>
-  &nbsp;
-  <img
-    align="center"
-    src="https://github-stats-extended.vercel.app/api?username=heavenlyron&theme=radical"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=heavenlyron"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/?username=heavenlyron&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Ron's%20GitHub%20Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
-    alt="Overall Stats"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=heavenlyron&langs_count=4&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=heavenlyron&theme=radical"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=heavenlyron"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api/?username=heavenlyron&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Ron's%20GitHub%20Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+        alt="Overall Stats"
+      />
+    </td>
+  </tr>
+</table>
