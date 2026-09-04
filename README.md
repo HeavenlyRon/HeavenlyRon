@@ -37,7 +37,6 @@ A full-stack e-commerce platform featuring product management, authentication, s
 
 <p>
 <a href="https://heavenly-roast.pages.dev/">Live Website</a> ·
-<a href="https://github.com/HeavenlyRon/Heavenly-Roast">Source Code</a>
 </p>
 
 <h3>Heavenly Portfolio</h3>
@@ -52,7 +51,6 @@ My personal portfolio showcasing my development work, projects, skills, and digi
 
 <p>
 <a href="https://heavenly-portfolio.pages.dev/">Live Website</a> ·
-<a href="https://github.com/HeavenlyRon/Heavenly-Portfolio">Source Code</a>
 </p>
 
 <h3>Nexora Studio</h3>
