@@ -115,6 +115,7 @@ A modern web experience focused on frontend development, visual design, and crea
 <p>
   <b>Freelance:</b>
   <a href="https://www.linkedin.com/in/ronald-allan-zamora-062a68302/">Hire Me On LinkedIn</a>
+  <br>
   <a href="https://www.fiverr.com/s/50G9aW6" target="_blank">Hire Me On Fiverr</a>
 </p>
 
