@@ -90,13 +90,33 @@ A modern web experience focused on frontend development, visual design, and crea
 <p align="left">
   <a href="https://www.linkedin.com/in/ronald-allan-zamora-062a68302/" target="_blank">
     <img
-      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
       height="30"
       width="40"
     />
   </a>
+  <a href="https://www.facebook.com/rnld.zamora" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="30"
+      width="40"
+    />
+  </a>
+  <a href="https://www.fiverr.com/s/50G9aW6" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/fiverr/1DBF73"
+      alt="Fiverr"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
+
+<p>
+  <b>Freelance:</b>
+  <a href="https://www.fiverr.com/s/50G9aW6" target="_blank">Hire me on Fiverr</a>
 </p>
 
 ---
