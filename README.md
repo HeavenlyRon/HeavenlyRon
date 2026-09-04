@@ -229,3 +229,10 @@ A modern web experience focused on frontend development, visual design, and crea
     alt="GitHub Streak"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/?username=heavenlyron&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Ron's%20GitHub%20Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+    alt="Overall Stats"
+  />
+</p>
