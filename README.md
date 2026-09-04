@@ -208,7 +208,7 @@ A modern web experience focused on frontend development, visual design, and crea
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=heavenlyron&show_icons=true&locale=en&layout=compact"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=heavenlyron&langs_count=4&layout=compact"
     alt="Top Languages"
   />
 </p>
@@ -217,7 +217,7 @@ A modern web experience focused on frontend development, visual design, and crea
   &nbsp;
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=heavenlyron&show_icons=true&locale=en"
+    src="https://github-stats-extended.vercel.app/api?username=heavenlyron&theme=radical"
     alt="GitHub Stats"
   />
 </p>
