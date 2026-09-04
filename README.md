@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Ron</h1>
+<h1 align="center">Hi, I'm Heavenly Ron</h1>
 
-<h3 align="center">Frontend Developer & UI/UX Designer from the Philippines</h3>
+<h3 align="center">Frontend Developer & UI/UX Designer</h3>
 
 <p align="center">
   I build modern, responsive web applications and digital experiences using React, TypeScript, and modern web technologies.
